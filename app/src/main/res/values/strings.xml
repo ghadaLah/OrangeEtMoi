@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OrangeEtMoi</string>
+    <string name="reclam_bandeau_text"><b>Discussion avec un conseiller par messagerie</b>\n\nSuivez tous les échanges avec nos conseillers depuis les <b>13 derniers mois.</b>\n\n<b>Accédez à votre espace de discussion ></b>\nSi vous n\'avez eu aucun échange avec un conseiller, la fenêtre de consultation sera vide.</string>
+    <string name="reclam_list_title">Retrouvez ci-dessous les réclamations que vous avez déposé au cours des <b>12 derniers mois.</b></string>
+    <string name="reclam_infos"><b>Déposée le 11/12/2020</b>\nDemande de remboursement.\n<font fgcolor='#E68900'><b>Traitée</b></font></string>
+    <string name="traitement_status">Votre réclamation a été traitée.\nLe geste commercial accordé à votre réclamation est maintenant présent sur votre facture consultable sur votre espace client Orange et moi</string>
+</resources>
